@@ -5,7 +5,7 @@ The main notebook file for this project is: dog_app.ipynb
 Additional source code can be found in the file: my_classes.py
 dog_app.html is a replica of dog_app.ipynb made for offline viewing purpose.
 
-The rest of this readme file was orignated in Udacity and describe how to install and start developing this project.
+The rest of this readme file was orignated in Udacity and describes how to install and start developing this project.
 *******************************************************************************
 
 [//]: # (Image References)
