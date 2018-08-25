@@ -1,5 +1,6 @@
 
-Udacity Deep Learning Nanodegree project no. 3: Dogs Breeds Classification using CNN in Keras
+## Udacity Deep Learning Nanodegree project no. 3:
+Dogs Breeds Classification using CNN in Keras
 ===================================================================
 The main notebook file for this project is: dog_app.ipynb
 Additional source code can be found in the file: my_classes.py
